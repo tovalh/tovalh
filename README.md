@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Toval 👋
 
-<!--
-**tovalh/tovalh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack con foco en backend y bases de datos. Construyo sistemas que manejan millones de registros sin explotar.
 
-Here are some ideas to get you started:
+## 🔧 Stack Principal
+**Backend:** PHP · Java · Spring Boot  
+**Bases de datos:** MySQL · PostgreSQL · MariaDB  
+**Herramientas:** Git · Docker · Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados
+- **[FinMail](-)** — App de finanzas personales con análisis inteligente de correos bancarios (Java, Spring Boot, Gmail API)
+- **[DolceMimi](-)** — Sistema de gestión de inventario y pedidos (PHP, Laravel, React)
+- **[toval.dev](https://toval.dev)** — Mi portafolio
+
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristobal-valladares)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=flat&logo=google-chrome&logoColor=white)](https://toval.dev)
