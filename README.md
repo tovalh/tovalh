@@ -4,7 +4,7 @@
 
 <a id="english"></a>
 
-Full Stack developer focused on backend and databases. I build systems that handle millions of records without blowing up.
+Backend developer — PHP & Go. I build microservices and systems that handle millions of records without blowing up.
 
 ## Main stack
 **Backend:** PHP · Go · Java · Spring Boot  
@@ -28,7 +28,7 @@ Full Stack developer focused on backend and databases. I build systems that hand
 
 # Hola, soy Toval
 
-Desarrollador Full Stack con foco en backend y bases de datos. Construyo sistemas que manejan millones de registros sin explotar.
+Desarrollador backend — PHP y Go. Construyo microservicios y sistemas que manejan millones de registros sin explotar.
 
 ## Stack principal
 **Backend:** PHP · Go · Java · Spring Boot  
